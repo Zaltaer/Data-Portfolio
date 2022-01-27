@@ -1,5 +1,5 @@
 # Data-Portfolio
-A collection of my projects that tackle a variety of problems in different verticals and use data to uncover novel insights. These projects show off my skills in Python, SQL, Tableau, and Excel/Sheets to extract, explore, analyze, and vizualize data.
+A collection of my projects that tackle a variety of problems in different verticals and use data to uncover novel insights. These projects show off my skills in Python, SQL, Tableau, and Excel/Sheets to extract, explore, clean, analyze, and vizualize data.
 
 ## Other links:
 
