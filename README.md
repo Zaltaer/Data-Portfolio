@@ -4,7 +4,7 @@ My name is Jason and I am a Data Analyst with a curious mind, strong critical th
 
 ## Other links:
 
-[View my Resume!](LINK HERE)
+[View my Resume!](https://github.com/Zaltaer/Data-Portfolio/blob/main/Resume%20-%20Jason%20Robathan.pdf)
 
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/jason-robathan-7469b5136/)
 
