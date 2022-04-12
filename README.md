@@ -2,9 +2,11 @@
 
 My name is Jason and I am a Data Analyst with a curious mind, strong critical thinking and attentional to detail skills, and a passion for problem solving. I am methodical, thorough, prudent, and I take pride in the work that I produce. Below are some of my projects in which I tackle a variety of problems in different verticals and use data to uncover novel insights. These projects demonstrate my ability to use Excel, Google Sheets, Python, SQL, and Tableau to extract, explore, clean, analyze, and vizualize data.  
 
-## Other links:
+## Resume:
 
 [View my Resume!](https://github.com/Zaltaer/Data-Portfolio/blob/main/Resume%20-%20Jason%20Robathan.pdf)
+
+## Other links:
 
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/jason-robathan-7469b5136/)
 
